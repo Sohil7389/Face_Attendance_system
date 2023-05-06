@@ -1,0 +1,12 @@
+>> Libraries
+    >pickle
+    >os
+    >datetime
+    >cv2
+    >numpy
+    >face_recognition
+    >cvzone
+    >firebase_admin
+
+>> Database
+      >firebase
